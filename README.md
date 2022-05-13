@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋! I'm Alex</h1>
-<h3 align="center">Junior Developer, learning and pushing myself everyday</h3>
+<h2 align="left">Hi 👋!, I'm Alex</h2>
 
 - 🔭 I’m currently working on [MeteoCompare](https://github.com/nebelorz/CFGS-2022-Project-MeteoCompare)
 
