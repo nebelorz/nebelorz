@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on [MeteoCompare](https://github.com/nebelorz/CFGS-2022-Project-MeteoCompare)
 
-- 🌱 I’m currently learning **Java and Python**
-
-- 💾 All of my projects are available at [https://github.com/nebelorz/](https://github.com/nebelorz/)
+- 🌱 Also I'm currently learning **Java and Python**
 
 - 📫 How to reach me **nebelorzbox@gmail.com**
 
