@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Alex</h2>
 
-- 🔭 I’m currently working on [MeteoCompare](https://github.com/nebelorz/CFGS-2022-Project-MeteoCompare)
+- 🔭 I’m currently working on [conveyors-math-simplifier](https://github.com/nebelorz/conveyors-math-simplifier)
 
 - 🌱 Also I'm learning **Java and Python**
 
