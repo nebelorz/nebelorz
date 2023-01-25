@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [conveyors-math-simplifier](https://github.com/nebelorz/conveyors-math-simplifier)
 
-- 🌱 Also I'm learning **Javascript**
+- 🌱 Also I'm learning **JavaScript**
 
 - 📫 How to reach me **nebelorzbox@gmail.com**
 
