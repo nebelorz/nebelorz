@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on learning **JavaScript** and **Cypress**
 
-- 🌱 Also I'm learning **Git**
+- 🌱 Also I'm learning QA good practices
 
 - 📫 How to reach me **nebelorzbox@gmail.com**
 
@@ -32,7 +32,7 @@
   </a>
   
   <!-- NODE.JS -->
-  <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="node.js" width="40" height="40"/>
   </a>
 </p>
