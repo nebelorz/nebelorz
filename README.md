@@ -31,13 +31,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
   </a>
   
-  <!-- Cypress -->
-  <a href="https://docs.cypress.io/guides/overview/why-cypress#In-a-nutshell" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jusuchin85/devicon/eb91dbdccc4eca821e5cf057b4200977881ab8b2/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/>
-  </a>
-  
   <!-- NODE.JS -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="node.js" width="40" height="40"/>
+  </a>
+  
+    <!-- Cypress -->
+  <a href="https://docs.cypress.io/guides/overview/why-cypress#In-a-nutshell" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jusuchin85/devicon/eb91dbdccc4eca821e5cf057b4200977881ab8b2/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/>
   </a>
 </p>
