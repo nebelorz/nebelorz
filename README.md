@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! I'm Alex</h2>
 
-- 🔭 I’m currently working on [conveyors-math-simplifier](https://github.com/nebelorz/conveyors-math-simplifier)
+- 🔭 I’m currently working on learning **JavaScript** and **Cypress**
 
-- 🌱 Also I'm learning **JavaScript**
+- 🌱 Also I'm learning **Git**
 
 - 📫 How to reach me **nebelorzbox@gmail.com**
 
