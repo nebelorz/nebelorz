@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on learning **JavaScript** and **Cypress**
 
-- 🌱 Also I'm learning QA best practices
+- 🌱 Also I'm learning **Gherkin**
 
 - 📫 How to reach me **nebelorzbox@gmail.com**
 
