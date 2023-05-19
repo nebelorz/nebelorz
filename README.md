@@ -1,8 +1,6 @@
 <h2 align="left">Hi 👋! I'm Alex</h2>
 
-- 🔭 I’m currently working on learning **JavaScript** and **Cypress**
-
-- 🌱 I'm also learning **Gherkin**
+- 🔭 I’m currently studying **Vueling University QA**
 
 - 📫 How to reach me **nebelorzbox@gmail.com**
 
