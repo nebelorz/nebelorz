@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Alex</h2>
 
-- 🔭 I’m currently studying **Vueling University QA**
+- 🔭 I’m currently learning **JMeter**
 
 - 📫 How to reach me **nebelorzbox@gmail.com**
 
