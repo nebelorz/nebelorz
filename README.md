@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Alex</h2>
 
-- 🔭 I’m currently learning **K6**
+- 🔭 I’m currently learning **Angular**
 
 - 📫 How to reach me **nebelorzbox@gmail.com**
 
