@@ -1,6 +1,6 @@
 ## Hi there, I'm Alex 👋
 
-QA Automation Engineer & Angular Developer — I build things and try to break them.
+SDET — I build things and try to break them.
 
 ![My Skills](https://skillicons.dev/icons?i=angular,ts,html,css,cypress,postman,jest,nodejs,postgres,supabase,docker,git,githubactions,azure,vercel)
 
