@@ -2,9 +2,9 @@
 
 SDET — I build things and try to break them.
 
-![My Skills](https://skillicons.dev/icons?i=angular,ts,html,css,cypress,postman,jest,nodejs,postgres,supabase,docker,git,githubactions,azure,vercel)
+![My Skills](https://skillicons.dev/icons?i=angular,ts,html,css,cypress,postman,jest,nodejs,postgres,supabase,docker,git,githubactions,azure,vercel&theme=dark)
 
-**[Dura Vault](https://dura-vault.vercel.app/)** — Player stats & rankings tracker for Dura Online. Built with Angular 21, Supabase and Chart.js.
+**[Dura Vault](https://dura-vault.vercel.app/)** — Player stats & rankings tracker for Dura Online. Built with Angular, Node, Supabase and Vercel.
 
 ![](https://streak-stats.demolab.com/?user=nebelorz&theme=dark&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nebelorz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
